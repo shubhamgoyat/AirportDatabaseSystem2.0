@@ -10,12 +10,12 @@ import java.sql.Statement;
 import java.util.Date;
 import java.text.*;
 
-public class axb2860_P4{
+public class sxg9584_P4{
 
    // Database connection
-    final static String user = "axb2860";
+    final static String user = "sxg9584";
     final static String password = "Apple123"; //mysql password
-    final static String db = "axb2860";
+    final static String db = "sxg9584";
     final static String jdbc = "jdbc:mysql://localhost:3306/"+db+"?user="+user+"&password="+password;
 
     public static void main ( String[] args ) throws Exception {
